@@ -1,7 +1,7 @@
 # Star Wars D&D
 
 ## Table of Contents
-1. [Build Your Character](#/resources/build-your-character.md)
+1. [Build Your Character](/resources/build-your-character.md)
 2. [Species](#species)
 3. [Classes](#classes)
 4. [Background](#background)
