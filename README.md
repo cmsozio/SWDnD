@@ -1,10 +1,11 @@
 # Star Wars D&D
+This repository is based off of the [Star Wars 5e D&D website](https://sw5e.com).
 
 ## Table of Contents
-1. [Build Your Character](/resources/build-your-character.md)
-2. [Species](#species)
-3. [Classes](#classes)
-4. [Background](#background)
+1. [Build Your Character](/sections/build-your-character.md)
+2. [Species](/sections/species.md)
+3. [Classes](/sections/classes.md)
+4. [Background](/sections/background.md)
 5. [Equipment](#equipment)
 6. [Customization Options](#customization-options)
 7. [Using Ability Scores](#using-ability-scores)
@@ -12,14 +13,7 @@
 9. [Combat](#combat)
 10. [Casting](#casting)
 11. [Conditions](#conditions)
-
-### Build Your Character
-#### 1. Choose a Species
-#### 2. Choose a Class
-#### 3. Determine Ability Scores
-#### 4. Describe Your Character
-#### 5. Choose Equipment
-#### 6. Come Together
+12. [Helpful Links](/resources/links.md)
 
 ### Species
 
