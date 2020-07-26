@@ -1,7 +1,7 @@
 # Star Wars D&D
 
 ## Table of Contents
-1. [Build Your Character](#build-your-character)
+1. [Build Your Character](#/resources/build-your-character.md)
 2. [Species](#species)
 3. [Classes](#classes)
 4. [Background](#background)
@@ -17,6 +17,9 @@
 #### 1. Choose a Species
 #### 2. Choose a Class
 #### 3. Determine Ability Scores
+#### 4. Describe Your Character
+#### 5. Choose Equipment
+#### 6. Come Together
 
 ### Species
 
