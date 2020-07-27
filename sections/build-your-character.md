@@ -18,7 +18,7 @@ Determine your ability scores for the following abilities: <b>Strength</b>, <b>D
 1. Roll four 6-sided dice and record the total of the highest three dice. Do this five more times.
 2. Or use the following scores for your abilities: 15, 14, 13, 12, 10, 8.
 | Score | Modifier |
-|-------|----------|
+| ----- | -------- |
 | 1 | -5 |
 | 2-3 | -4 |
 | 4-5 | -3 |
