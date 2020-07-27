@@ -18,6 +18,7 @@ Determine your ability scores for the following abilities: <b>Strength</b>, <b>D
 1. Roll four 6-sided dice and record the total of the highest three dice. Do this five more times.
 2. Or use the following scores for your abilities: 15, 14, 13, 12, 10, 8.
 | Score | Modifier |
+|-------|----------|
 | 1 | -5 |
 | 2-3 | -4 |
 | 4-5 | -3 |
@@ -53,6 +54,7 @@ When you make an attack with a wepon, you roll a d20 and add your proficiency bo
 Each time you gain a level, you gain 1 additional Hit Die. Roll that Hit Die, add your Constitution modifier to the roll, and add the total to your hit point maximum. Alternatively, you can use the fixed value shown in your class entry, which is the average result of the die roll. 
 
 | Experience Points | Level | Proficiency Bonus |
+|-------------------|-------|-------------------|
 | 0 | 1 | +2 |
 | 300 | 2 | +2 |
 | 900 | 3 | +2 |
