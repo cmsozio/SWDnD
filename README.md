@@ -15,22 +15,4 @@ This repository is based off of the [Star Wars 5e D&D website](https://sw5e.com)
 11. [Conditions](#conditions)
 12. [Helpful Links](/resources/links.md)
 
-### Species
-
-### Classes
-
-### Background
-
-### Equipment
-
-### Customization Options
-
-### Using Ability Scores
-
-### Adventuring
-
-### Combat
-
-### Casting
-
-### Conditions
+[The Galaxy](https://i.pinimg.com/originals/3e/9f/6c/3e9f6c3cee7acee07c84fc9cf57af011.png)

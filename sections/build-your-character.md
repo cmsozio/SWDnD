@@ -1,10 +1,10 @@
 # Build Your Character
 ## Table of Contents
-1. [Choose a Species](#choose-a-species)
-2. [Choose a Class](#choose-a-class)
-3. [Determine Ability Scores](#determine-ability-scores)
-4. [Describe Your Character](#describe-your-character)
-5. [Choose Equipment](#choose-equipment)
+1. [Choose a Species](#1-choose-a-species)
+2. [Choose a Class](#2-choose-a-class)
+3. [Determine Ability Scores](#3-determine-ability-scores)
+4. [Describe Your Character](#4-describe-your-character)
+5. [Choose Equipment](#5-choose-equipment)
 6. [Come Together](#6-come-together)
 
 ### 1. Choose a Species
@@ -43,10 +43,10 @@ You know the drill.
 ### 5. Choose Equipment
 Your class and background will determine your character's starting equipment (weapons, armor, and adventuring gear). 
 
-##### <b>Armor Class</b>
+#### <b>Armor Class</b>
 Without armor or a shield, your character's AC equals 10 + his or her dexterity modifier. 
 
-##### <b>Weapons</b>
+#### <b>Weapons</b>
 When you make an attack with a wepon, you roll a d20 and add your proficiency bonus and the appropriate ability modifier. 
 - For attacks with <b>melee</b> weapons, use your Strength modifier for attack and damage rolls. 
 - For attacks with <b>ranged</b> weapons, use your Dexterity modifier for attack and damage rolls. 
