@@ -10,6 +10,8 @@
 7. [Fight in the Hangar](#fight-in-the-hangar)
 
 ### Overview
+[Galaxy](https://i.pinimg.com/originals/3e/9f/6c/3e9f6c3cee7acee07c84fc9cf57af011.png)
+
 Two choices:
 1. Escort Princess Leia with the locations of ex-Empire forces.
 2. Destory the Rebel base and try to stop Princess Leia.
