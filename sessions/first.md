@@ -5,11 +5,16 @@
 2. [Start](#start)
 3. [Blathers Route](#blathers-route)
 4. [ex-Empire Route](#ex-empire-route)
+5. [Speeder Encounter](#speeder-encounter)
+6. [Fight in the Desert](#fight-in-the-desert)
+7. [Fight in the Hangar](#fight-in-the-hangar)
 
 ### Overview
 Two choices:
 1. Escort Princess Leia with the locations of ex-Empire forces.
 2. Destory the Rebel base and try to stop Princess Leia.
+
+Both will eventually lead back to the bunker.
 
 ### Start
 
@@ -47,6 +52,7 @@ Two choices:
 - If they accept then Princess Leia walks out with two rebel guards. (Commander Roc Tritus and Authin Eather)
 - Small dialogue of thanks, will tell players what they are protecting (stolen locations of ex-Empire commanders), and tells Commander Roc to escort the players to the [speeders](https://starwars.fandom.com/wiki/74-Z_speeder_bike/Legends) and that she will be there shortly.
 - Then dialogue about being aware for ex-Empire in the area, and then head out.
+- [Speeder Sounds](https://www.youtube.com/watch?v=RI4X6zU797k)
 
 
 ### ex-Empire Route
@@ -54,6 +60,7 @@ Two choices:
 - Commander Lark Tarkin explains to them what the job is and shows them the credits they will earn upon arrival of the information they possess. 
 - If they accept Commader Lark Tarkin points to the stormtroopers (4) to load up, as well as the death trooper who bends down to pick up a bag. It seems to be heavy.
 - They go to the [speeders](https://starwars.fandom.com/wiki/74-Z_speeder_bike/Legends) and head out.
+- [Speeder Sounds](https://www.youtube.com/watch?v=RI4X6zU797k)
 
 ### Speeder Encounter
 - If players went ex-Empire Route then they only see the 3 speeders going into the base.
@@ -61,9 +68,9 @@ Two choices:
 
 - If they continue on to the base then have the ex-Empire troopers drive up next to them and begin to attack but slow down because of it allowing the players to drive past to the base.
 
-- If they decide to get out and fight, then let fighting commense.
+- If they decide to fight, then let [fighting](#fight-in-the-desert) commense.
 - After the fighting Princess Leia will say thanks, and hope that their paths cross again. 
-- Then they can check the bodies for the record of the mission and location of Commander Lark Tarkin and where he is hiding and end the session.
+- Then they can check the bodies for the record of the mission and location of Commander Lark Tarkin and where he is hiding and end the session with the them hearing the [blast off](https://www.youtube.com/watch?v=zXYrHB86Kg0) of the Rebels.
 
 ### Fight in the Desert
 - All on [74-Z Speeder Bikes](https://sw5e.com/rules/snv/monsters/74-Z%20Speeder%20Bike).
@@ -73,7 +80,7 @@ Two choices:
 ### Fight in the Hangar
 - [Troopers](https://sw5e.com/rules/snv/monsters/Trooper)
 - [Death Trooper](https://sw5e.com/rules/snv/monsters/Death%20Trooper) only blaster rifle shots.
-- Princess Leia and the two other Rebels run into the ship and blast off. 
+- Princess Leia and the two other Rebels run into the ship and [blast off](https://www.youtube.com/watch?v=zXYrHB86Kg0). 
 
 - If from Blathers then fight the stormtroopers and have Death Trooper leave on speeder back to the bunker. Then they can find a record of the mission they are on and describing Commander Lark Tarkin and where he is hiding and end the session.
 
