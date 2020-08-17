@@ -1,0 +1,164 @@
+{
+  "name": "Ortel",
+  "builderVersion": "0.4.19",
+  "image": "",
+  "user": "",
+  "experiencePoints": 400,
+  "species": {
+    "name": "Sith Pureblood",
+    "abilityScoreImprovementSelectedOption": 0,
+    "abilityScoreImprovement": {}
+  },
+  "classes": [
+    {
+      "name": "Guardian",
+      "levels": 2,
+      "hitPoints": [
+        7
+      ],
+      "abilityScoreImprovements": [],
+      "forcePowers": [
+        "Force Disarm",
+        "Force Push/Pull",
+        "Saber Throw",
+        "Saber Reflect"
+      ]
+    }
+  ],
+  "baseAbilityScores": {
+    "Strength": 15,
+    "Dexterity": 12,
+    "Constitution": 14,
+    "Intelligence": 8,
+    "Wisdom": 10,
+    "Charisma": 13
+  },
+  "background": {
+    "name": "Sith",
+    "feat": {
+      "name": "Force-Sensitive",
+      "type": "Feat"
+    }
+  },
+  "characteristics": {
+    "alignment": "Chaotic Balanced",
+    "Personality Traits": "",
+    "Ideal": "",
+    "Bond": "",
+    "Flaw": "",
+    "Gender": "",
+    "Place of Birth": "",
+    "Age": "",
+    "Height": "",
+    "Weight": "",
+    "Hair": "",
+    "Eyes": "",
+    "Skin": "",
+    "Appearance": "",
+    "Backstory": ""
+  },
+  "credits": 200,
+  "equipment": [
+    {
+      "name": "Mesh armor",
+      "quantity": 1,
+      "equipped": true
+    },
+    {
+      "name": "Martial lightsaber",
+      "quantity": "2",
+      "equipped": true
+    }
+  ],
+  "currentStats": {
+    "hitPointsLost": 0,
+    "temporaryHitPoints": 0,
+    "techPointsUsed": 0,
+    "forcePointsUsed": 0,
+    "superiorityDiceUsed": 0,
+    "hitDiceUsed": {
+      "d10": 0
+    },
+    "deathSaves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "hasInspiration": false,
+    "featuresTimesUsed": {},
+    "conditions": [],
+    "exhaustion": 0,
+    "highLevelCasting": {
+      "level6": false,
+      "level7": false,
+      "level8": false,
+      "level9": false
+    },
+    "unspentLevels": 1
+  },
+  "tweaks": {
+    "abilityScores": {
+      "Strength": {
+        "skills": {
+          "Athletics": {
+            "proficiency": "Proficient"
+          }
+        },
+        "score": {
+          "bonus": null,
+          "override": null
+        }
+      },
+      "Charisma": {
+        "skills": {
+          "Intimidation": {
+            "proficiency": "Proficient"
+          }
+        }
+      },
+      "Wisdom": {
+        "skills": {
+          "Insight": {
+            "proficiency": "Proficient"
+          }
+        }
+      },
+      "Dexterity": {
+        "skills": {
+          "Acrobatics": {
+            "proficiency": "Proficient"
+          }
+        },
+        "score": {
+          "bonus": 1,
+          "override": null
+        }
+      }
+    },
+    "hitPoints": {
+      "maximum": {
+        "bonus": null,
+        "override": null
+      }
+    }
+  },
+  "customProficiencies": [],
+  "customLanguages": [
+    "Sith",
+    "Jawaneese"
+  ],
+  "customFeatures": [],
+  "customFeats": [],
+  "customTechPowers": [],
+  "customForcePowers": [
+    "Denounce",
+    "Force Propel",
+    "Armor of Abeloth",
+    "Lightning Charge"
+  ],
+  "customEquipment": [],
+  "settings": {
+    "isEnforcingForcePrerequisites": true,
+    "isFixedHitPoints": false,
+    "abilityScoreMethod": "Standard Array"
+  }
+}

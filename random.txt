@@ -1,0 +1,24 @@
+Empire outfit:
+https://lh3.googleusercontent.com/proxy/VtG2HHYhslj6spLKTaLPiEvXFGdBH33pfPhjkoSKRWqzlAs8CbfYJtWEPaQeg7nL7URh63kpuIqss7X0aR6ato3-vgFvC6J6XSdr1301MyVUOnuW
+
+Random Names:
+	Elan Sleazebaggano
+	Gafferky Lenzwin
+	Mart Mattin
+	Slowen Lo (slave)
+	Jek Porkins (bounty hunter)
+	Klaatu (trader)
+	Barada (dealer ;))
+
+Commands:
+	Speeder: 	~play https://www.youtube.com/watch?v=RI4X6zU797k
+	Ship:		~play https://www.youtube.com/watch?v=zXYrHB86Kg0
+
+Attacking:
+	melee: Strength modifier for attack and damage rolls
+	ranged: Dexterity modifier for attack and damage rolls
+
+Griffen - Jawa, Smuggler background. Scholar Class
+Matt - Harch, Engineer
+Adam - Sith Pureblood, Guardian
+Parker - Combat Droid, Wanderer
