@@ -28,7 +28,7 @@ The decision to go to Blathers first for the credits or go to the bunker to inve
 - But needs to attack the pirates for [rhydorium canisters](https://starwars.fandom.com/wiki/Fuel).
 
 ### Pirates
-- A group of pirates standing around a smaller yacht loading up [rhydonium canisters](https://starwars.fandom.com/wiki/Fuel) onto speeders.
+- A group of pirates standing around a smaller [yacht](https://store.hermanmiller.com/office/office-chairs/eames-executive-chair/2055.html?lang=en_US#lang=en_US&start=1) loading up [rhydonium canisters](https://starwars.fandom.com/wiki/Fuel) onto speeders.
 - They can sneak around to the back of the yacht but one of them has to roll a 15 or higher in Stealth (Dex.)
 - If they go around back they can try a deception roll of natural 20 and be able to get in safely. Otherwise get in a battle with two troopers. Then 3 on the inside.
 - If they decide to attack the front guys then they have to fight off 4 pirates. Then again 3 on the inside.
